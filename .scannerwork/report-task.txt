@@ -1,0 +1,8 @@
+organization=default-organization
+projectKey=ts
+serverUrl=https://pr-4043-core.sc-dev.io
+serverVersion=8.0.0.31940
+branch=b1
+dashboardUrl=https://pr-4043-core.sc-dev.io/dashboard?id=ts&branch=b1&resolved=false
+ceTaskId=AYM7Wz8q5twMsIl91NSx
+ceTaskUrl=https://pr-4043-core.sc-dev.io/api/ce/task?id=AYM7Wz8q5twMsIl91NSx

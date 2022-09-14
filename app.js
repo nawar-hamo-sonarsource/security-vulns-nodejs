@@ -12,6 +12,7 @@ var log4js = require("log4js");
 var init_db = require('./model/init_db');
 var login = require('./routes/login');
 var products = require('./routes/products');
+var x;
 
 var app = express();
 
