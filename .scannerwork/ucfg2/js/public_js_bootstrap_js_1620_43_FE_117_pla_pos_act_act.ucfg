@@ -1,0 +1,425 @@
+
+5public_js_bootstrap_js_1620_43_FE_117_pla_pos_act_actU
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js‘* ‘(_"s131_1*ƒ
+s131_1
+<synthetic> (ê
+ç
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’ ’( 
+%binOpRes_0"
+__js_equal*
+
+	placement*
+
+bottom*
+s131_2
+s131_3*û
+s131_2
+<synthetic>	 	(Ñ
+Å
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’* ’(>
+%fieldAccess_0"__id**
+
+pos"
+topá
+Ñ
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’* ’(>
+%fieldAccess_1"__id**
+
+pos"
+heightô
+ñ
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’* ’(>
+	%concat_0"__concat*
+
+%fieldAccess_0*
+
+%fieldAccess_1Ü
+É
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’S ’(`
+%fieldAccess_2"__id**
+
+pos"
+widthç
+ä
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’S ’(`
+%binOpRes_1"__js_div*
+
+%fieldAccess_2*2Ö
+Ç
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’H ’(`
+%fieldAccess_3"__id**
+
+pos"
+leftñ
+ì
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’H ’(`
+	%concat_1"__concat*
+
+%fieldAccess_3*
+
+%binOpRes_1ä
+á
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’c ’(r
+%binOpRes_2"__js_div*
+
+actualWidth*2ì
+ê
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’H ’(r
+%binOpRes_3"__js_sub*
+
+	%concat_1*
+
+%binOpRes_2vt
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’# ’(t
+	%object_0Object"Objectç
+ä
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’% ’(>
+
+	%object_0Object"
+top"__id*
+
+	%concat_0ê
+ç
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’B ’(r
+
+	%object_0Object"
+left"__id*
+
+%binOpRes_3M
+K
+
+__unknown_file (
+%unionThenElse_2"__id*
+
+	%object_0Object*	
+s131_10*¡
+s131_3
+<synthetic> (ç
+ä
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js÷ ÷(
+%binOpRes_4"
+__js_equal*
+
+	placement*
+top*
+s131_4
+s131_5*ï
+s131_4
+<synthetic> (Ñ
+Å
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js÷* ÷(@
+%fieldAccess_4"__id**
+
+pos"
+topô
+ñ
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js÷* ÷(@
+%binOpRes_5"__js_sub*
+
+%fieldAccess_4*
+
+actualHeightÜ
+É
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js÷S ÷(`
+%fieldAccess_5"__id**
+
+pos"
+widthç
+ä
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js÷S ÷(`
+%binOpRes_6"__js_div*
+
+%fieldAccess_5*2Ö
+Ç
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js÷H ÷(`
+%fieldAccess_6"__id**
+
+pos"
+leftñ
+ì
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js÷H ÷(`
+	%concat_2"__concat*
+
+%fieldAccess_6*
+
+%binOpRes_6ä
+á
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js÷c ÷(r
+%binOpRes_7"__js_div*
+
+actualWidth*2ì
+ê
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js÷H ÷(r
+%binOpRes_8"__js_sub*
+
+	%concat_2*
+
+%binOpRes_7vt
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js÷# ÷(t
+	%object_1Object"Objectè
+å
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js÷% ÷(@
+
+	%object_1Object"
+top"__id*
+
+%binOpRes_5ê
+ç
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js÷B ÷(r
+
+	%object_1Object"
+left"__id*
+
+%binOpRes_8M
+K
+
+__unknown_file (
+%unionThenElse_1"__id*
+
+	%object_1Object*
+s131_9*¬
+s131_5
+<synthetic> (é
+ã
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js◊ ◊(
+%binOpRes_9"
+__js_equal*
+
+	placement*
+left*
+s131_6
+s131_7*û
+s131_6
+<synthetic> (á
+Ñ
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js◊4 ◊(B
+%fieldAccess_7"__id**
+
+pos"
+heighté
+ã
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js◊4 ◊(B
+%binOpRes_10"__js_div*
+
+%fieldAccess_7*2Ñ
+Å
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js◊* ◊(B
+%fieldAccess_8"__id**
+
+pos"
+topó
+î
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js◊* ◊(B
+	%concat_3"__concat*
+
+%fieldAccess_8*
+
+%binOpRes_10å
+â
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js◊E ◊(U
+%binOpRes_11"__js_div*
+
+actualHeight*2ï
+í
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js◊* ◊(U
+%binOpRes_12"__js_sub*
+
+	%concat_3*
+
+%binOpRes_11Ö
+Ç
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js◊] ◊(s
+%fieldAccess_9"__id**
+
+pos"
+leftô
+ñ
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js◊] ◊(s
+%binOpRes_13"__js_sub*
+
+%fieldAccess_9*
+
+actualWidthvt
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js◊# ◊(u
+	%object_2Object"Objectê
+ç
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js◊% ◊(U
+
+	%object_2Object"
+top"__id*
+
+%binOpRes_12ë
+é
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js◊W ◊(s
+
+	%object_2Object"
+left"__id*
+
+%binOpRes_13M
+K
+
+__unknown_file (
+%unionThenElse_0"__id*
+
+	%object_2Object*
+s131_8*¨
+s131_7
+<synthetic> (à
+Ö
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.jsÿ4 ÿ(B
+%fieldAccess_10"__id**
+
+pos"
+heightè
+å
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.jsÿ4 ÿ(B
+%binOpRes_14"__js_div*
+
+%fieldAccess_10*2Ö
+Ç
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.jsÿ* ÿ(B
+%fieldAccess_11"__id**
+
+pos"
+topò
+ï
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.jsÿ* ÿ(B
+	%concat_4"__concat*
+
+%fieldAccess_11*
+
+%binOpRes_14å
+â
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.jsÿE ÿ(U
+%binOpRes_15"__js_div*
+
+actualHeight*2ï
+í
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.jsÿ* ÿ(U
+%binOpRes_16"__js_sub*
+
+	%concat_4*
+
+%binOpRes_15Ü
+É
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.jsÿ] ÿ(q
+%fieldAccess_12"__id**
+
+pos"
+leftá
+Ñ
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.jsÿ] ÿ(q
+%fieldAccess_13"__id**
+
+pos"
+widthõ
+ò
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.jsÿ] ÿ(q
+	%concat_5"__concat*
+
+%fieldAccess_12*
+
+%fieldAccess_13vt
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.jsÿ# ÿ(s
+	%object_3Object"Objectê
+ç
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.jsÿ% ÿ(U
+
+	%object_3Object"
+top"__id*
+
+%binOpRes_16é
+ã
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.jsÿW ÿ(q
+
+	%object_3Object"
+left"__id*
+
+	%concat_5M
+K
+
+__unknown_file (
+%unionThenElse_0"__id*
+
+	%object_3Object*
+s131_8*w
+s131_8
+<synthetic> (L
+J
+
+__unknown_file (
+%unionThenElse_1"__id*
+
+%unionThenElse_0*
+s131_9*x
+s131_9
+<synthetic> (L
+J
+
+__unknown_file (
+%unionThenElse_2"__id*
+
+%unionThenElse_1*	
+s131_10*è
+s131_10
+<synthetic>
+ 
+("m
+U
+I/Users/nawar.hamo/Project/ts/security-vulns-nodejs/public/js/bootstrap.js’ ÿ(s
+
+%unionThenElse_2:
+%env:
+	placement:
+pos:
+actualWidth:
+actualHeightB 
